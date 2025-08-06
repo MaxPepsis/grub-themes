@@ -1,6 +1,6 @@
 # grub-themes
 
-Pasos para aplicar el tema de grub (Lo aplique en Debian, aun no pruebo las demas distros pero creo que te deberia de ir bien)
+Pasos para aplicar el tema de grub (Lo aplique en Debian, aun no pruebo las demas distros lo que tendrias que ver como se configura segun tu distro)
 
 1- Clona el repositorio
 
